@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dialog type="End" appCntx="networkUnstructuredSsContext_version2" networkId="0" 
+localId="4" remoteId="2" mapMessagesSize="1" prearrangedEnd="false" returnMessageOnError="false" 
+userObject="Session Id : 8951404D0A3C84020C713AA75CF453D8">
+	<localAddress pc="1" ssn="8">
+		<ai value="67"/>
+	</localAddress>
+	<remoteAddress pc="2" ssn="8">
+		<ai value="67"/>
+	</remoteAddress>
+	<destinationReference number="8888888" nai="international_number" npi="ISDN"/>
+	<originationReference number="7777777" nai="international_number" npi="ISDN"/>
+	<processUnstructuredSSRequest_Response invokeId="0" dataCodingScheme="15" string="Thank You test blabla!"/>
+</dialog>
